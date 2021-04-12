@@ -1,6 +1,7 @@
 # NLP
 
-->> Text Classification
+->> Text Classification <<-
+
 Project 1 >> 20_NewsGroups dataset
   - Supervised ML model
     - Naive Bayes
