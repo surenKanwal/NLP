@@ -10,7 +10,7 @@ Models:
   - NN (MultiPreceptron) sklearn
 
 
->>>> Project#2: Twitter Sentiment Annotation prediction, Project link: [GitHub](https://github.com/skmisht/NLP/blob/f2e68e089bba956271a07cc831383c8c53f134f6/TextClassification/20NewsGroup_classification.ipynb)
+>>>> Project#2: Twitter Sentiment Annotation prediction, Project link: [GitHub](https://github.com/skmisht/TensorFlow/blob/95c96ad20b64294160f4562a4bd0ecc2523781fd/twitter_sentiment_annotation.ipynb)
 
 Dataset: Scraping Twitter API
 
